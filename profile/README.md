@@ -6,13 +6,13 @@
 
 ## 🐤 인원
 
-| ![](https://github.com/minyoung0503.png?size=100) | ![](https://github.com/bokeeeey.png?size=100) | ![](https://github.com/codingaring.png?size=100) | ![](https://github.com/whai2.png?size=100) |
-| :-----------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: | :----------------------------------------: |
-|     [김민영](https://github.com/minyoung0503)     |     [김보경](https://github.com/bokeeeey)     |     [김유경](https://github.com/codingaring)     |     [노은수](https://github.com/whai2)     |
+| ![](https://github.com/minyoung0503.png)  | ![](https://github.com/bokeeeey.png)  | ![](https://github.com/codingaring.png)  | ![](https://github.com/whai2.png)  |
+| :---------------------------------------: | :-----------------------------------: | :--------------------------------------: | :--------------------------------: |
+| [김민영](https://github.com/minyoung0503) | [김보경](https://github.com/bokeeeey) | [김유경](https://github.com/codingaring) | [노은수](https://github.com/whai2) |
 
-| ![](https://github.com/seolsis.png?size=100) | ![](https://github.com/ayoung-iya.png?size=100) | ![](https://github.com/Seoin02.png?size=100) | ![](https://github.com/devwqc.png?size=100) |
-| :------------------------------------------: | :---------------------------------------------: | :------------------------------------------: | :-----------------------------------------: |
-|     [백지원](https://github.com/seolsis)     |     [윤아영](https://github.com/ayoung-iya)     |     [이서인](https://github.com/Seoin02)     |     [정봉찬](https://github.com/devwqc)     |
+| ![](https://github.com/seolsis.png)  | ![](https://github.com/ayoung-iya.png)  | ![](https://github.com/Seoin02.png)  | ![](https://github.com/devwqc.png)  |
+| :----------------------------------: | :-------------------------------------: | :----------------------------------: | :---------------------------------: |
+| [백지원](https://github.com/seolsis) | [윤아영](https://github.com/ayoung-iya) | [이서인](https://github.com/Seoin02) | [정봉찬](https://github.com/devwqc) |
 
 ## 🎯 목표
 
