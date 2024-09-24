@@ -25,3 +25,7 @@
 - [모던 자바스크립트 Deep Dive](https://github.com/fraudgroup/js-deep-dive)
 - [코딩테스트](https://github.com/fraudgroup/codingtest)
 - [면접](https://github.com/fraudgroup/interview)
+
+## 🎓 졸업생
+
+1. 은수: 2024.09.09 월
